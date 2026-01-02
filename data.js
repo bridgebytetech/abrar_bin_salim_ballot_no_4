@@ -3,11 +3,11 @@ const content = {
         name: "আবরার বিন সেলিম",
         position: "আন্তর্জাতিক বিষয়ক সম্পাদক পদপ্রার্থী",
         ballotLabel: "ব্যালট নং:",
-        ballotNo: "৮",
-        navTitle: "শাকসু নির্বাচন ২০২৫",
+        ballotNo: "৪",
+        navTitle: "শাকসু নির্বাচন ২০২৬",
         manifestoTitle: "নির্বাচনী ইশতেহার",
         langBtn: "English",
-        footer: "© ২০২৫ আবরার বিন সেলিম। শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (সাস্ট)।",
+        footer: "© ২০২৬ আবরার বিন সেলিম। শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (সাস্ট)।",
         points: [
             {
                 title: "১. বিশ্ববিদ্যালয়ের গ্লোবাল ভিশন ও আন্তর্জাতিক স্বীকৃতি বৃদ্ধি",
@@ -82,11 +82,11 @@ const content = {
         name: "Abrar Bin Salim",
         position: "Candidate for International Affairs Secretary",
         ballotLabel: "Ballot No:",
-        ballotNo: "8",
-        navTitle: "SUCSU 2025",
+        ballotNo: "4",
+        navTitle: "SUCSU 2026",
         manifestoTitle: "Election Manifesto",
         langBtn: "বাংলা",
-        footer: "© 2025 Abrar Bin Salim. Shahjalal University of Science & Technology.",
+        footer: "© 2026 Abrar Bin Salim. Shahjalal University of Science & Technology.",
         points: [
             {
                 title: "1. Enhancing Global Vision & Recognition",
@@ -157,4 +157,5 @@ const content = {
             }
         ]
     }
+
 };
