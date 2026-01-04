@@ -1,23 +1,13 @@
 body {
     font-family: 'Inter', 'Hind Siliguri', sans-serif;
     scroll-behavior: smooth;
-    -webkit-font-smoothing: antialiased;
-}
-
-#language-overlay {
-    transition: opacity 0.4s ease-in-out;
 }
 
 .manifesto-card {
-    background: #ffffff;
+    background: white;
     padding: 2rem;
     border: 1px solid #e2e8f0;
-    border-left: 6px solid #1e3a8a; /* Deep blue border */
-    transition: transform 0.2s;
-}
-
-.manifesto-card:hover {
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    border-left: 6px solid #1e3a8a;
 }
 
 .manifesto-card h3 {
@@ -25,22 +15,14 @@ body {
     font-weight: 700;
     margin-bottom: 1rem;
     color: #1e3a8a;
-    line-height: 1.4;
 }
 
 .manifesto-card ul {
-    list-style-type: square;
+    list-style: square;
     margin-left: 1.5rem;
-    color: #334155;
 }
 
 .manifesto-card li {
     margin-bottom: 0.75rem;
     line-height: 1.6;
-}
-
-/* Image shadow improvement */
-img {
-    display: block;
-    max-width: 100%;
 }
