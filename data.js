@@ -32,7 +32,7 @@ const content = {
       {
         title: "৩. আন্তর্জাতিক সুযোগ কর্নার",
         items: [
-          'শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের অফিসিয়াল ওয়েবসাইটে "<span class="highlight-blue">International Opportunity Corner</span>" নামে একটি ডেডিকেটেড সেকশন চালু করা হবে।',
+          'শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের অফিসিয়াল ওয়েবসাইটে "<span style="color: #1e3a8a; font-weight: 700;">International Opportunity Corner</span>" নামে একটি ডেডিকেটেড সেকশন চালু করা হবে।',
           "বিশ্বব্যাপী সকল স্কলারশিপ, ফেলোশিপ, ইন্টার্নশিপ, এক্সচেঞ্জ প্রোগ্রাম, সামার স্কুল, আন্তর্জাতিক কনফারেন্স ও ওয়ার্কশপের আপডেটেড তথ্য এক প্ল্যাটফর্মে সংরক্ষিত থাকবে।",
           "Calendar-based system-এর মাধ্যমে আন্তর্জাতিক স্কলারশিপ, এক্সচেঞ্জ প্রোগ্রাম ও কনফারেন্সগুলোর আবেদন ডেডলাইন ও গুরুত্বপূর্ণ তারিখসমূহ সহজে উপস্থাপন করা হবে।",
         ],
@@ -129,7 +129,7 @@ const content = {
       {
         title: "3. International Opportunity Corner",
         items: [
-          "A dedicated section titled “International Opportunity Corner” will be launched on the official website of Shahjalal University of Science and Technology.",
+          'A dedicated section titled "<span style="color: #1e3a8a; font-weight: 700;">International Opportunity Corner</span>" will be launched on the official website of Shahjalal University of Science and Technology.',
           "This platform will centralize updated information on global scholarships, fellowships, internships, exchange programs, summer schools, international conferences, and workshops.",
           "A calendar-based system will be used to clearly present application deadlines and important dates for international scholarships, exchange programs, and conferences.",
         ],
