@@ -80,7 +80,7 @@ const content = {
         items: [
           "Sust Fellowship Program: বিদেশি বিশ্ববিদ্যালয়ে Short Academic Visit, Summer School ও Leadership Camp-এ অংশগ্রহণের সুযোগ।",
           "International Research Incubation Hub: আন্তর্জাতিক গবেষকদের সাথে Joint Research, Publication Guidance ও Academic Writing Workshop।",
-          "Digital International Affairs Portal: এক প্ল্যাটফর্মে স্কলারশিপ, ইন্টার্নশিপ, এক্সচেঞ্জ প্রোগ্রাম, এলামনাই ও বিদেশি বিশ্ববিদ্যালয় লিঙ্ক—সব তথ্য।",
+          // "Digital International Affairs Portal: এক প্ল্যাটফর্মে স্কলারশিপ, ইন্টার্নশিপ, এক্সচেঞ্জ প্রোগ্রাম, এলামনাই ও বিদেশি বিশ্ববিদ্যালয় লিঙ্ক—সব তথ্য।",
           "Sust Model UN ও International Debate Hub: আন্তর্জাতিক মানের বিতর্ক, কূটনীতি ও নেতৃত্ব প্রশিক্ষণ।",
           "International Cultural Festival: বিদেশি দূতাবাস ও কালচারাল সেন্টারগুলোর সহায়তায় International Culture Week আয়োজন।",
         ],
@@ -177,7 +177,7 @@ const content = {
         items: [
           "SUST Fellowship Program: Opportunities for short academic visits, summer schools, and leadership camps at foreign universities.",
           "International Research Incubation Hub: Joint research with international researchers, publication guidance, and academic writing workshops.",
-          "Digital International Affairs Portal: A single platform for all information on scholarships, internships, exchange programs, alumni networks, and foreign university links.",
+          // "Digital International Affairs Portal: A single platform for all information on scholarships, internships, exchange programs, alumni networks, and foreign university links.",
           "SUST Model UN & International Debate Hub: International-standard training in debate, diplomacy, and leadership.",
           "International Cultural Festival: Organizing International Culture Week with support from foreign embassies and cultural centers.",
         ],
@@ -194,3 +194,4 @@ const content = {
     ],
   },
 };
+
